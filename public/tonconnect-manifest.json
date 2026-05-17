@@ -1,5 +1,5 @@
 {
-  "url": "http://localhost:5173",
+  "url": "https://tridavinci-dapp.vercel.app",
   "name": "Tridavinci",
-  "iconUrl": "http://localhost:5173/icon.png"
+  "iconUrl": "https://tridavinci-dapp.vercel.app/icon.png"
 }
