@@ -6,7 +6,7 @@ import App from './App';
 // TonConnectUIProvider оборачивает всё приложение —
 // благодаря этому кнопка Tonkeeper доступна на любой странице
 ReactDOM.createRoot(document.getElementById('root')!).render(
-    <TonConnectUIProvider manifestUrl="http://localhost:5173/tonconnect-manifest.json">
+    <TonConnectUIProvider manifestUrl="https://tridavinci-dapp.vercel.app/tonconnect-manifest.json">
         <App />
     </TonConnectUIProvider>
 );
